@@ -29,7 +29,7 @@ rag_chatbot/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/rag_chatbot.git
+git clone https://github.com/AshishJain89/rag_chatbot.git
 cd rag_chatbot
 ```
 
